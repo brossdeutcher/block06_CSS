@@ -1,0 +1,25 @@
+h2 {
+  color:rebeccapurple;
+  background-color: goldenrod;
+}
+body {
+  background-color: rosybrown;
+}
+.red-highlight {
+  background-color:red;
+}
+#thumbnail-cd {
+  width: 200px;
+  padding: 10px;
+  border: lime dashed  5px;
+  margin-bottom: 20px
+}
+#main-cd {
+  width: 50px;
+}
+#chicken-table td {
+  border: black solid 2px;
+}
+#chicken-table th {
+  border: red dashed 1px
+}
